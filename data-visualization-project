@@ -1,0 +1,9 @@
+YourProject/
+│
+├── index.html                 # Your main visualization page
+├── script.js                  # Your JavaScript with chart logic
+├── style.css                  # Your custom styles
+├── data.csv                   # Dataset used for the charts
+├── chart_images/              # (Optional) Screenshots of charts if not interactive
+├── README.md                  # Documentation (see template below)
+└── LICENSE                    # (Optional) License file
